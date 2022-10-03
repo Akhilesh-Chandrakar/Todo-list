@@ -1,0 +1,22 @@
+.item{
+    display:flex;
+   
+    align-items: center;
+    background-color: purple;
+    text-align:center;
+    padding:4px;
+    margin: 0px;
+
+}
+.item p{
+    margin:10px;
+    margin-right: 80px;
+} 
+ button{
+    margin-right: 10px;
+    display:flex;
+    
+}
+.delete{
+    color: red;
+}
